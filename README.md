@@ -1,1 +1,9 @@
-<img width="1848" height="1018" alt="image" src="https://github.com/user-attachments/assets/42540588-dc33-46b6-a5b0-cf2113036aa7" />
+#  News Summarizing 
+
+A modern web app built with a sleek animated UI that fetches Indian news from NewsAPI. It includes channel selection, live time-based fetch intervals, loading animations, and full error handling. Designed to offer a clean, interactive experience while staying performance-optimized.
+
+# LINK 👇
+
+
+
+# Home Page 
